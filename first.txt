@@ -2,3 +2,7 @@
 git test
 
 基本的な
+
+
+git add 
+git commit
